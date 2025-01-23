@@ -33,6 +33,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning >
+      <head>
+      <script
+  defer
+  data-website-id="6792889b7db4bb4d52cc3dbb"
+  data-domain="next-saasmvp.vercel.app"
+  src="https://datafa.st/js/script.js">
+</script>
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
